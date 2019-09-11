@@ -1,3 +1,8 @@
+# hello-world 
+
+Salut c'est moi, Marc-André Claustre. J'ai renoncé à ma double licence math-info pour aller licence info car je suis un faible. 
+Ma plus grande peur est qu'il n'y ait plus de frites au Crous.
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
