@@ -1,7 +1,6 @@
 # hello-world 
 
-Salut c'est moi, Marc-André Claustre. J'ai renoncé à ma double licence math-info pour aller licence info car je suis un faible. 
-Ma plus grande peur est qu'il n'y ait plus de frites au Crous.
+Salut c'est moi, Marc-André Claustre. J'ai renoncé à ma double licence math-info pour aller licence info car je suis un faible. Je fais des mèmes quand je m'ennuie pour faire rire des inconnus sur Reddit. Ma plus grande peur est qu'il n'y ait plus de frites au Crous.
 
 # Welcome to GitHub
 
